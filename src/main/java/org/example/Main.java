@@ -8,6 +8,8 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("제발 되라..!!!");
 
+        System.out.println("죄송합니다");
+
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 
