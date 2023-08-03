@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
         // Press Alt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
+
         System.out.println("제발 되라..!!!");
         System.out.println("She's got a smile that it seems to me\n" +
                 "Reminds me of childhood memories\n" +
@@ -13,6 +14,7 @@ public class Main {
                 "Now and then when I see her face\n" +
                 "She takes me away to that special place\n" +
                 "And if I stare too long, I'd probably break down and cry");
+
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 
